@@ -7,3 +7,6 @@ deb gimp
 deb language-pack-gnome-fr 
 deb language-pack-gnome-fr-base 
 deb gimp-help-fr 
+deb evolution
+deb thunderbird
+deb thunderbird-locale-fr 
