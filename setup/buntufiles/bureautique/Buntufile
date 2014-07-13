@@ -1,0 +1,5 @@
+deb libreoffice
+deb libreoffice-l10n-fr 
+deb libreoffice-help-fr 
+deb hyphen-fr
+deb libreoffice-gtk
