@@ -1,0 +1,6 @@
+source 'https://dl-ssl.google.com/linux/linux_signing_key.pub' 'deb https://dl.google.com/linux/chrome/deb/ stable main'
+source '' 'deb http://archive.canonical.com/ trusty partner'
+deb firefox
+deb chromium-browser
+deb google-chrome-stable
+deb skype
