@@ -24,5 +24,12 @@ trt_palette() {
   cd -
 }
 
+get_skype() {
+  sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc)
+  partner"
+  sudo apt-get update
+  sudo apt-get install skype && sudo apt-get -f install}
+
 init
 palettiser
+get_skype
